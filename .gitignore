@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.*
+*.log
+.lab11-reference/
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
